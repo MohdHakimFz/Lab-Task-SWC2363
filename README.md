@@ -5,7 +5,7 @@ Here's a sample `README.md` file for explaining how to run a PHP project. You ca
 ```md
 # Klinik Ajwa PHP Project
 
-This project is a PHP-based web application for [project description or purpose]. Below are the instructions on how to set up and run the project locally.
+This project is a PHP-based web application for klinik_ajwa. Below are the instructions on how to set up and run the project locally.
 
 ## Requirements
 
